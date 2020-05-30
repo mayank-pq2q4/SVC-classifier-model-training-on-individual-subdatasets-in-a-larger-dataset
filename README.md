@@ -1,0 +1,2 @@
+# SVC-classifier-model-training-on-individual-subdatasets-in-a-larger-dataset
+We created individual models for each certain range of rows of the dataset as it was unique for the output. We observed that a certain column provided us which row to choose. We also applied other algorithms to find the best possible classifier to predict the output we observed that quadratic classifiers had a really good effect. The code utilises a Linear SVC algorithm to classify but can be easily be changed to the algorithm of choice.
